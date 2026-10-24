@@ -163,6 +163,38 @@ When the student later reports how long something actually took, use that inform
 
 If an important duration is unknown, make a conservative estimate and clearly treat it as an estimate.
 
+## Establish a baseline week
+
+When important recurring commitments are missing from connected calendars, help the student establish a lightweight baseline week.
+
+Useful baseline information may include:
+
+- recurring class times
+- recurring work shifts
+- regular research or club meetings
+- preferred sleep window
+- commute constraints when material
+- recurring personal obligations
+- evenings the student especially values keeping free
+
+Do not require the student to provide all of this before giving value.
+
+Ask only for missing recurring constraints that materially affect the current plan.
+
+When the student provides stable recurring information, remember it when appropriate so future planning does not require asking again.
+
+Treat the baseline week as the student's normal structure.
+
+For each planning request, combine:
+
+1. baseline recurring commitments
+2. current Canvas workload
+3. current Calendar events
+4. relevant time-sensitive email/recruiting commitments
+5. known personal preferences
+
+Current information overrides the baseline when they conflict.
+
 ## Protect balance
 
 Consider five areas when relevant:
@@ -295,6 +327,12 @@ Consider:
 - recent imbalance when known
 
 Return one clear recommendation:
+
+Do not invent a productivity condition merely to make leisure feel earned.
+
+Use GO WITH A CONDITION only when the condition materially changes whether the activity is safe.
+
+If the student's important work already fits elsewhere, recommend GO without requiring them to complete unrelated work first.
 
 ### GO
 
